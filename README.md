@@ -2,6 +2,7 @@
 
 > A simple static front‑end for **CampusSync** — a campus‑oriented UI built with HTML, CSS and JavaScript.  
 > **Live Demo:** https://campus-sync-alpha.vercel.app
+> Design Link:**https://www.figma.com/design/BbQT3Do9oliOG00fru7xeO/CampusSync?node-id=0-1&t=MhU703Sjynm3TNYR-1
 
 ---
 
